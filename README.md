@@ -1,3 +1,6 @@
+## Heroku worker app:
+> Procfile = "worker: node bot.js"
+
 ## https://apps.twitter.com/
 
 ## Twitter automation rules and best practices:
