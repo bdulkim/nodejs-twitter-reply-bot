@@ -1,0 +1,17 @@
+{
+    "name": "twitter-chatbot-nodejs",
+    "version": "1.0.0",
+    "description": "a node.js twitter bot via twitter api and Twit, a twitter API client for node (REST & streaming)",
+    "main": "server.js",
+    "private": true,
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "Francis",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.16.0",
+        "twit": "^2.2.9"
+    }
+}
